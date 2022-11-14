@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacobHanimann
-- 👀 I’m interested in the application of deep learning in biology and translation medical science
-- 🌱 I’m currently learning HPC, Snakemake, Pytorch, Singularity, Docker, Django & Rust
+- 👀 I’m interested in the application of machine learning in biology and translation medical science
+- 🌱 I’m currently learning Snakemake, Pytorch, Docker, Django
 - 📫 How to reach me: jacob.hanimann@gmail.com
 
 <!---
